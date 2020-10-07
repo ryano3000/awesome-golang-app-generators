@@ -1,6 +1,6 @@
 # Awesome Golang App Generators
 
-The goal of this list is to compile the best app generators availabel for Go-lang as well as tutorials on how to use then. Pros and Cons etc
+The goal of this list is to compile the best app generators availabel for Go-lang as well as tutorials on how to use then. Pros and Cons etc. My goal being to find the best way to generate monolithic application composed of services. 
 
 Definitions:
 An App Generator is any Go project that helps to rapidly scaffold a monolithic or microservice application
@@ -17,15 +17,13 @@ best feature: community built existing services, you can easily use existing ser
 Goa is a framework that uses a DSL that you write to generate GRPC and HTTP api for you. Its focused on microservices
 
 
-### Revel
+### Lile
+A cool project from the UK that keeps things nice and simple. Uses protobuf to generate services using GRPC.
+https://github.com/lileio/lile
 
 
-### Buffalo
-
-
-Well known other frameworks
-
-### 
+### Heavy duty frameworks
+I believe these frameworks are more geared towards building large applications.
 
 
 
